@@ -27,6 +27,7 @@ Platforms offering structured courses, certifications, and learning programs.
 - [Coursera](https://www.coursera.org/) — Online courses and certifications from universities and organizations.
 - [edX](https://www.edx.org/) — University-level courses and professional certificates.
 - [FutureLearn](https://www.futurelearn.com/) — Online courses from universities and institutions worldwide.
+- [PassProfessor](https://passprofessor.com/free-samples/) — Exam-prep platform with free sample practice questions for licensing, certification, and college admissions exams.
 - [Udemy](https://www.udemy.com/) — Marketplace for courses across a wide range of topics.
 
 ## Course Creation Platforms
